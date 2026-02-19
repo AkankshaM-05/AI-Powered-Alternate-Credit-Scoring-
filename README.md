@@ -8,12 +8,12 @@ The model introduces three core engineered variables — Repayment Burden, Liqui
 
 Final model performance:
 
-Accuracy: 74%
-Precision: 81.8%
-Recall: 80.7%
-ROC–AUC: 0.78
-5-Fold CV AUC: 0.88
-False Positives: Reduced to 25
+- Accuracy: 74%
+- Precision: 81.8%
+- Recall: 80.7%
+- ROC–AUC: 0.78
+- 5-Fold CV AUC: 0.88
+- False Positives: Reduced to 25
 
 The precision-focused threshold reduces capital exposure while maintaining balanced recall and stable generalization.
 
